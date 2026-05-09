@@ -2,6 +2,6 @@
 
 - 🎮 Programando um jogo novo
 - 📖 Estudando C# e Python
-- 💻 Estudando para se tornar Back-End
+- 💻 Estudando para se tornar um desenvolvedor Back-End
 
 
