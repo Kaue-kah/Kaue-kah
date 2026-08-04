@@ -2,6 +2,6 @@
 
 - 🎮 Desenvolvimento de jogos
 - 📖 C#
-- 💻 Estudando de desenvolvimento Back-End
+- 💻 Estudando desenvolvimento Back-End
 
 
